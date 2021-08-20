@@ -1,0 +1,76 @@
+[
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\src\\window_test.cpp.obj", "src\\window_test.cpp"],
+  "file": "src\\window_test.cpp"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\CSerialPort\\src\\SerialPort.cpp.obj", "3rdparty\\CSerialPort\\src\\SerialPort.cpp"],
+  "file": "3rdparty\\CSerialPort\\src\\SerialPort.cpp"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\CSerialPort\\src\\SerialPortInfo.cpp.obj", "3rdparty\\CSerialPort\\src\\SerialPortInfo.cpp"],
+  "file": "3rdparty\\CSerialPort\\src\\SerialPortInfo.cpp"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\CSerialPort\\src\\SerialPortBase.cpp.obj", "3rdparty\\CSerialPort\\src\\SerialPortBase.cpp"],
+  "file": "3rdparty\\CSerialPort\\src\\SerialPortBase.cpp"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\CSerialPort\\src\\SerialPortInfoBase.cpp.obj", "3rdparty\\CSerialPort\\src\\SerialPortInfoBase.cpp"],
+  "file": "3rdparty\\CSerialPort\\src\\SerialPortInfoBase.cpp"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\CSerialPort\\src\\SerialPortWinBase.cpp.obj", "3rdparty\\CSerialPort\\src\\SerialPortWinBase.cpp"],
+  "file": "3rdparty\\CSerialPort\\src\\SerialPortWinBase.cpp"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\CSerialPort\\src\\SerialPortInfoWinBase.cpp.obj", "3rdparty\\CSerialPort\\src\\SerialPortInfoWinBase.cpp"],
+  "file": "3rdparty\\CSerialPort\\src\\SerialPortInfoWinBase.cpp"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-gcc", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\cJSON\\cJSON.c.obj", "3rdparty\\cJSON\\cJSON.c"],
+  "file": "3rdparty\\cJSON\\cJSON.c"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-gcc", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\liblightmodbus\\src\\lightmodbus.c.obj", "3rdparty\\liblightmodbus\\src\\lightmodbus.c"],
+  "file": "3rdparty\\liblightmodbus\\src\\lightmodbus.c"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-gcc", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\liblightmodbus\\src\\master.c.obj", "3rdparty\\liblightmodbus\\src\\master.c"],
+  "file": "3rdparty\\liblightmodbus\\src\\master.c"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-gcc", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\liblightmodbus\\src\\master\\mbcoils.c.obj", "3rdparty\\liblightmodbus\\src\\master\\mbcoils.c"],
+  "file": "3rdparty\\liblightmodbus\\src\\master\\mbcoils.c"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-gcc", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\liblightmodbus\\src\\master\\mbregs.c.obj", "3rdparty\\liblightmodbus\\src\\master\\mbregs.c"],
+  "file": "3rdparty\\liblightmodbus\\src\\master\\mbregs.c"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-gcc", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\liblightmodbus\\src\\master\\mpcoils.c.obj", "3rdparty\\liblightmodbus\\src\\master\\mpcoils.c"],
+  "file": "3rdparty\\liblightmodbus\\src\\master\\mpcoils.c"
+},
+{
+  "directory": "C:\\Users\\CRP\\Desktop\\testsig",
+  "arguments": ["D:\\OpenFree\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-gcc", "-c", "-m64", "-I3rdparty", "-I3rdparty\\sigslot\\include", "-I3rdparty\\CSerialPort\\include", "-I3rdparty\\liblightmodbus\\include", "-I3rdparty\\xlnt\\include", "-ID:\\OpenFree\\FLTK-1.3.6\\include", "-DWIN32", "-DUSE_OPENGL32", "-D_LARGEFILE_SOURCE", "-D_LARGEFILE64_SOURCE", "-D_FILE_OFFSET_BITS=64", "-o", "build\\.objs\\.\\testsig\\mingw\\x86_64\\release\\3rdparty\\liblightmodbus\\src\\master\\mpregs.c.obj", "3rdparty\\liblightmodbus\\src\\master\\mpregs.c"],
+  "file": "3rdparty\\liblightmodbus\\src\\master\\mpregs.c"
+}]

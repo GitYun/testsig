@@ -1,0 +1,12 @@
+[submodule "3rdparty/sigslot"]
+	path = 3rdparty/sigslot
+	url = https://github.com/palacaze/sigslot.git
+[submodule "3rdparty/cJSON"]
+	path = 3rdparty/cJSON
+	url = https://github.com.cnpmjs.org/DaveGamble/cJSON.git
+[submodule "3rdparty/liblightmodbus"]
+	path = 3rdparty/liblightmodbus
+	url = https://github.com/Jacajack/liblightmodbus.git
+[submodule "3rdparty/CSerialPort"]
+	path = 3rdparty/CSerialPort
+	url = https://github.com/GitYun/CSerialPort.git
